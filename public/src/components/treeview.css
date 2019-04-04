@@ -1,0 +1,31 @@
+.treeview{
+	font-family: consolas, fixed;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+
+.treeview span.collapse {
+	font-weight: bold;
+}
+
+.treeview button {
+	border: none;
+	padding-left: 0;
+  	background-color: inherit;
+  	font-family: inherit;
+  	font-size: inherit;
+  	color: #565656;
+  	display: block;
+}
+
+.node .children {
+	padding-left: 15px;
+}
+
+.node > .children {
+	display: none;
+}
+
+.node.expanded > .children {
+	display: block;
+}

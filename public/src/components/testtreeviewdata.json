@@ -1,0 +1,40 @@
+[
+	{ "text": "File 1", "isNode": false, "key": 1 },
+	{ "text": "File 2", "isNode": false, "key": 2 },
+	{ "text": "File 3", "isNode": false, "key": 3 },
+	{ "text": "File 4", "isNode": false, "key": 4 },
+	{ "text": "Folder One", 
+	  "isNode": true, 
+	  "key": 5,
+	  "children": [
+	  	{ "text": "File 5", "isNode": false, "key": 6 },
+		{ "text": "File 6", "isNode": false, "key": 7 },
+		{ "text": "Folder Two", 
+		  "isNode": true, 
+		  "key": 8,
+		  "children": [
+		  	{ "text": "File 8", "isNode": false, "key": 9 },
+			{ "text": "File 9", "isNode": false, "key": 10 },
+			{ "text": "File 10", "isNode": false, "key": 11 },
+			{ "text": "File 11", "isNode": false, "key": 12 },
+			{ "text": "File 12", "isNode": false, "key": 13 },
+			{ "text": "File 13", "isNode": false, "key": 14 },
+			{ "text": "Folder Three", 
+			  "isNode": true, 
+			  "key": 15,
+			  "children": [
+			  	{ "text": "File 15", "isNode": false, "key": 16 },
+				{ "text": "File 16", "isNode": false, "key": 17 },
+				{ "text": "File 17", "isNode": false, "key": 18 },
+				{ "text": "File 18", "isNode": false, "key": 19 },
+				{ "text": "File 19", "isNode": false, "key": 20 },
+				{ "text": "File 20", "isNode": false, "key": 21 }
+			  ]
+		    }
+		  ]
+	    },
+	    { "text": "File 21", "isNode": false, "key": 22 },
+	    { "text": "File 22", "isNode": false, "key": 23 }
+	  ]
+    }
+]

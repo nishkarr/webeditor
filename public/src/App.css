@@ -1,0 +1,19 @@
+#root {
+  display: flex;
+  flex: 1;
+}
+
+#editor {
+  display: flex;
+  flex: 1;
+  background-color: #FDFBFB;
+}
+
+#left {
+  flex: 1;
+  background-color: #ECFCFC;
+}
+
+#right {
+  flex: 4;
+}
